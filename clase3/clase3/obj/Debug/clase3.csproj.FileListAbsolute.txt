@@ -1,0 +1,13 @@
+C:\Users\EducaciónIT\Desktop\clase3\clase3\bin\Debug\clase3.exe.config
+C:\Users\EducaciónIT\Desktop\clase3\clase3\bin\Debug\clase3.exe
+C:\Users\EducaciónIT\Desktop\clase3\clase3\bin\Debug\clase3.pdb
+C:\Users\EducaciónIT\Desktop\clase3\clase3\bin\Debug\MiControl.dll
+C:\Users\EducaciónIT\Desktop\clase3\clase3\bin\Debug\MiControl.pdb
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.csprojAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.Form1.resources
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.Properties.Resources.resources
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.csproj.GenerateResource.cache
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.csproj.CopyComplete
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.exe
+C:\Users\EducaciónIT\Desktop\clase3\clase3\obj\Debug\clase3.pdb

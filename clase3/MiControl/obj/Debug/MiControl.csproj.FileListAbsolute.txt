@@ -1,0 +1,8 @@
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\bin\Debug\MiControl.dll
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\bin\Debug\MiControl.pdb
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\obj\Debug\MiControl.csprojAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\obj\Debug\MiControl.UserControl1.resources
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\obj\Debug\MiControl.csproj.GenerateResource.cache
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\obj\Debug\MiControl.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\obj\Debug\MiControl.dll
+C:\Users\EducaciónIT\Desktop\clase3\MiControl\obj\Debug\MiControl.pdb
