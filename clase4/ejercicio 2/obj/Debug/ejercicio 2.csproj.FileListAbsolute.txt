@@ -1,0 +1,5 @@
+C:\Users\educacionit\Desktop\clase4\ejercicio 2\bin\Debug\ejercicio 2.exe.config
+C:\Users\educacionit\Desktop\clase4\ejercicio 2\bin\Debug\ejercicio 2.exe
+C:\Users\educacionit\Desktop\clase4\ejercicio 2\bin\Debug\ejercicio 2.pdb
+C:\Users\educacionit\Desktop\clase4\ejercicio 2\obj\Debug\ejercicio 2.exe
+C:\Users\educacionit\Desktop\clase4\ejercicio 2\obj\Debug\ejercicio 2.pdb

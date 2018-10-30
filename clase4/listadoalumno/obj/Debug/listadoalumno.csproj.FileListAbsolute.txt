@@ -1,0 +1,9 @@
+C:\Users\educacionit\Desktop\clase4\listadoalumno\bin\Debug\listadoalumno.exe.config
+C:\Users\educacionit\Desktop\clase4\listadoalumno\bin\Debug\listadoalumno.exe
+C:\Users\educacionit\Desktop\clase4\listadoalumno\bin\Debug\listadoalumno.pdb
+C:\Users\educacionit\Desktop\clase4\listadoalumno\obj\Debug\listadoalumno.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\clase4\listadoalumno\obj\Debug\listadoalumno.Form1.resources
+C:\Users\educacionit\Desktop\clase4\listadoalumno\obj\Debug\listadoalumno.Properties.Resources.resources
+C:\Users\educacionit\Desktop\clase4\listadoalumno\obj\Debug\listadoalumno.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\clase4\listadoalumno\obj\Debug\listadoalumno.exe
+C:\Users\educacionit\Desktop\clase4\listadoalumno\obj\Debug\listadoalumno.pdb

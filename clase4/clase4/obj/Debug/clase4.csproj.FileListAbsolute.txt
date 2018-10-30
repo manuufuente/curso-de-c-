@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\clase4\clase4\bin\Debug\clase4.exe.config
+C:\Users\educacionit\Desktop\clase4\clase4\bin\Debug\clase4.exe
+C:\Users\educacionit\Desktop\clase4\clase4\bin\Debug\clase4.pdb
+C:\Users\educacionit\Desktop\clase4\clase4\obj\Debug\clase4.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\clase4\clase4\obj\Debug\clase4.exe
+C:\Users\educacionit\Desktop\clase4\clase4\obj\Debug\clase4.pdb
